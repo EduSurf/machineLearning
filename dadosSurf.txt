@@ -182,3 +182,11 @@ tamanho_40,direcao_swell,velocidade_vento,direcao_vento,tamanho,formacao(0-FLAT,
 1.7,E,3.5,SSE,1.5,1
 1.7,E,3.7,S,1.7,1
 1.8,E,2.4,SSW,2.0,1
+1.7,ESE,2.8,ENE,1.9,1
+1.7,ESE,0.7,WNW,1.7,1
+1.7,E,5.4,SW ,1.7,1
+1.7,E,6.3,SE ,1.7,3
+1.7,E,4.5,SSE,1.7,3
+1.7,E,3.5,SSE,1.6,3
+1.7,E,3.7,S,1.6,3
+1.8,E,2.4,SSW,1.4,2
